@@ -53,6 +53,6 @@ npm run dev
 ```
   ![npm run](https://github.com/SubhashKumar8574/Responsive_Dynamic/assets/115339472/7516bfc4-bc3b-4925-a0ef-469a9c2259be)
 
-## Dependcies files
-![Dependcies](https://github.com/SubhashKumar8574/Responsive_Dynamic/assets/115339472/dbcc88cc-87ca-45bd-9153-e970bf4dfed8)
+## Dependencies files
+![Dependencies](https://github.com/SubhashKumar8574/Responsive_Dynamic/assets/115339472/dbcc88cc-87ca-45bd-9153-e970bf4dfed8)
 
